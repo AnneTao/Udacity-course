@@ -1,5 +1,30 @@
 1.Common Data Formats
-
 a.csv
 b.xml
 c.josn
+
+
+2.Why do you think a relational database might be useful? 
+a.It is straightforward to extract aggregated data with complex filters
+b.A database scales well
+c.It ensures all data is consistently formatted
+
+
+3.why are values missing?
+a.occasional system errors prevent data from being recorded
+b.non response: some subset of subjects or event types are systematically missing certain data attributes,or missing entirely.
+
+
+4.dealing with missing data
+a.partial deletion :
+  listwise deletion , pairwise deletion
+b.impution
+  aa.why impute?
+  --not much data
+  --removing data could affect representativeness
+  bb.method
+  --impute using mean value
+    Good: don't charge mean across sample.
+    Bad : lessens correlations between variables
+  --impute using linear regression   
+    bad : over emphasize existing trends, exact values suggest too much certainty
