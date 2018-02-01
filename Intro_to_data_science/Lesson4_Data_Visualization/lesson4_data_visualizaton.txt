@@ -1,0 +1,28 @@
+1.Visual Encondings
+
+part one:
+position
+length
+angle
+
+part two
+direction
+shape
+area/volume
+
+part three
+color 
+Hue :combination
+saturator:limit Hues
+
+2.Data Types
+
+Numeric data : A measurement , discrete and continuous
+Categorical Data : represent charactesistics 
+Time Series Data  
+
+3. visualizing time series data
+
+scatter plots
+line charts
+loess curves
