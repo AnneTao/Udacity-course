@@ -1,2 +1,2 @@
 # Udacity-course
-Intro to Data Secience
+Intro to Udacity course
